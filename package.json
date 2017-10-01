@@ -1,8 +1,8 @@
 {
-  "name": "angular",
-  "version": "1.6.6",
-  "description": "Latest AngularJS version",
-  "main": "10",
+  "name": "manage-my-events",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,10 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/ktnrn/manage-my-events.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ktnrn/manage-my-events/issues"
   },
-  "homepage": "https://github.com/ktnrn/manage-my-events#readme"
+  "homepage": "https://github.com/ktnrn/manage-my-events#readme",
+  "dependencies": {
+    "angular": "^1.6.6"
+  }
 }
